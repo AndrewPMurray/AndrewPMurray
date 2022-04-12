@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! My name is Andrew Murray
 
 - 🔭 I’m currently working on all of my previous projects, as well as a video game dialog system in Unreal Engine 5
 - 🌱 I’m currently learning C++ & Vue
