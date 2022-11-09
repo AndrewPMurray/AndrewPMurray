@@ -1,7 +1,7 @@
 ### Hello World! My name is Andrew Murray
 
-- 🔭 I’m currently working on all of my previous projects, as well as a video game dialog system in Unreal Engine 5
-- 🌱 I’m currently learning C++ & Vue
+- 🔭 I’m currently working on a photo editing website
+- 🌱 I’m currently learning Typescript and GraphQL
 - 💬 Ask me about my time at AppAcademy!
 - 📫 How to reach me: [andrewpmurray1987@gmail.com](mailto:andrewpmurray1987@gmail.com)
 - 😄 Pronouns: he/him
