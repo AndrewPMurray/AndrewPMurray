@@ -5,7 +5,7 @@
 - 💬 Ask me about my time at AppAcademy!
 - 📫 How to reach me: [andrewpmurray1987@gmail.com](mailto:andrewpmurray1987@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am currently part of a Lord of the Rings-themed DnD Campaign that has been running for over 3 years (Part of the inspiration for 2 of my projects)
+- ⚡ Fun fact: I am currently part of a Lord of the Rings-themed DnD Campaign that has been running for over 3 years (Part of the inspiration for 2 of my very first projects)
 
 ### Check out my other socials:
 
