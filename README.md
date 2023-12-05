@@ -1,7 +1,7 @@
 ### Hello World! My name is Andrew Murray
 
 - 🔭 I’m currently working on a website that utilizes the Steam API to display games and stats.
-- 🌱 I’m currently learning C#!
+- 🌱 I’m currently learning advanced C# implementations!
 - 💬 Ask me about my time at AppAcademy!
 - 📫 How to reach me: [andrewpmurray1987@gmail.com](mailto:andrewpmurray1987@gmail.com)
 - 😄 Pronouns: he/him
